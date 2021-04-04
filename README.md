@@ -11,5 +11,6 @@
 4. After you run the build command open your file explorer and go to your project folder and you will find a build folder.
 5.Now drag the build folder and leave it in the area in the netlify's sites section and your project will be deployed to netlify in under 5 secs.
 
-# [Live demo](https://geervan-codepen-clone.netlify.app/)
+# Live site
+[Live demo](https://geervan-codepen-clone.netlify.app/)
 Have fun coding!!!
